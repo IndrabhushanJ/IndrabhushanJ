@@ -7,6 +7,10 @@ I'm just friendly neighbourhood ~~spiderman~~ developer👨🏼‍💻. Who ❤ 
 * ✉️  You can contact me at [jaiswarindrabhushan@gmail.com](mailto:jaiswarindrabhushan@gmail.com)
 * ⚡  Fun Fact about me: I can Squat and deadlift 100 kgs🏋🏼‍♀️.
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" >
+<img src="https://media0.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif" align="right" width="400" height="250"/>
+</a>
+
 ### Skills
 
 
@@ -21,6 +25,7 @@ I'm just friendly neighbourhood ~~spiderman~~ developer👨🏼‍💻. Who ❤ 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
 
 
 ### Socials
