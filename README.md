@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm just friendly neighbourhood ~~spiderman~~ developer👨🏼‍💻. Who ❤ to code and watch anime📺🔥.
 
-* 🌍  I'm based in Mumbai, India 🇮🇳
+* 🌍  I'm based in Mumbai, India 🇮🇳.
 * ✉️  You can contact me at [jaiswarindrabhushan@gmail.com](mailto:jaiswarindrabhushan@gmail.com)
 * ⚡  Fun Fact about me: I can Squat and deadlift 100 kgs🏋🏼‍♀️.
 
