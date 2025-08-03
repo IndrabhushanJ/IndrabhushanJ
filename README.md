@@ -5,7 +5,7 @@ I'm just friendly neighbourhood ~~spiderman~~ developer👨🏼‍💻. Who ❤ 
 
 * 🌍  I'm based in Mumbai, India 🇮🇳.
 * ✉️  You can contact me at [jaiswarindrabhushan@gmail.com](mailto:jaiswarindrabhushan@gmail.com)
-* ⚡  Fun Fact about me: I can Squat and deadlift 100 kgs🏋🏼‍♀️.
+* ⚡  Fun Fact about me: I can Squat and deadlift 100 kgs🏋🏼‍♀️
 
 <a href="http://bit.ly/3wobQcN" >
 <img src="https://media0.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif" align="right" width="400" height="250"/>
