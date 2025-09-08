@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Indrabhushan Jaiswar
 ============================================================================================================================================
 
-I'm just friendly neighbourhood ~~spiderman~~ developer👨🏼‍💻. Who ❤ to code and watch anime📺🔥.
+I'm just friendly neighbourhood ~~spiderman~~ developer👨🏼‍💻. Who ❤ to code and watch anime📺🔥
 
 * 🌍  I'm based in Mumbai, India 🇮🇳.
 * ✉️  You can contact me at [jaiswarindrabhushan@gmail.com](mailto:jaiswarindrabhushan@gmail.com)
